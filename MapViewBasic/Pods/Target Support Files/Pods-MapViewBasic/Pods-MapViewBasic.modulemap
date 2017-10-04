@@ -1,0 +1,6 @@
+framework module Pods_MapViewBasic {
+  umbrella header "Pods-MapViewBasic-umbrella.h"
+
+  export *
+  module * { export * }
+}
